@@ -1,0 +1,18 @@
+div {
+    margin: auto;
+    border: 2px solid black;
+    width: 700px;
+    
+}
+
+li {
+    padding: 5px;
+    border: 2px solid green;
+    
+}
+
+section {
+    
+    border: 2px solid blue;
+    
+}
